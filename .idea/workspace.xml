@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56b5e149-2b0f-4b7d-96ee-0b384c48d367" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lamdas And Streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/BiConsumerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/BiFunctionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/BiPredicateSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/ConsumerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/FunctionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/PredicateSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/SupplierSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfaces/UnaryOperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Example1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2gahYAl3G38qN2XEbjVwSckGpL1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/DELL/Desktop/Spring data framework/Lamdas And Streams/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="cosumer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="BiFunctionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.BiFunctionSample" />
+      <module name="Lamdas And Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiPredicateSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.BiPredicateSample" />
+      <module name="Lamdas And Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Example1" />
+      <module name="Lamdas And Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.PredicateSample" />
+      <module name="Lamdas And Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnaryOperatorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfaces.UnaryOperatorSample" />
+      <module name="Lamdas And Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.UnaryOperatorSample" />
+        <item itemvalue="Application.BiPredicateSample" />
+        <item itemvalue="Application.PredicateSample" />
+        <item itemvalue="Application.BiFunctionSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56b5e149-2b0f-4b7d-96ee-0b384c48d367" name="Changes" comment="" />
+      <created>1715941647891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715941647891</updated>
+      <workItem from="1715941648855" duration="11560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
