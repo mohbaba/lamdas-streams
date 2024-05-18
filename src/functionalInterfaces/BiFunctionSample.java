@@ -8,7 +8,7 @@ public class BiFunctionSample {
             return a.length() + b.length();
         };
 
-        int result = biFunction.apply("Mohbaba","Jummy");
+        int result = biFunction.apply("Mohbaba","Stack");
         System.out.println(result);
     }
 }

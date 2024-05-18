@@ -8,8 +8,8 @@ public class BiConsumerSample {
         BiConsumer<String, Integer> biConsumer = (word, number) ->
                 printNameAndAge(word, number);
         ;
-//        biConsumer.accept("Jummy",10);
-        Map<String, Integer> map = Map.of("Jummy",10,"Moh",7);
+
+        Map<String, Integer> map = Map.of("Once",10,"Moh",7);
         map.forEach(biConsumer);
     }
 

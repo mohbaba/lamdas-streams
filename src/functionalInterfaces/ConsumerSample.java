@@ -12,7 +12,7 @@ public class ConsumerSample{
         };
 //        consumer.accept("Abike");
 
-        List<String> names = List.of("Mohbaba","Dayo", "Jummy");
+        List<String> names = List.of("Mohbaba","Dayo", "Jummy", "Beejay");
         names.forEach(consumer);
     }
 }
